@@ -1,0 +1,35 @@
+{
+  "name": "workflow-2-course-assignment-xentraz",
+  "version": "1.0.0",
+  "description": "## Brief",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-typescript": "^7.16.7",
+    "@parcel/transformer-sass": "^2.3.2",
+    "@types/lodash": "^4.14.179",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1",
+    "parcel": "^2.3.2"
+  },
+  "scripts": {
+    "start": "npx parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noroff-FEU-Assignments/workflow-2-course-assignment-xentraz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noroff-FEU-Assignments/workflow-2-course-assignment-xentraz/issues"
+  },
+  "homepage": "https://github.com/Noroff-FEU-Assignments/workflow-2-course-assignment-xentraz#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "lodash": "^4.17.21"
+  }
+}
